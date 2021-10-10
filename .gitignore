@@ -1,1 +1,5 @@
-something else.txt
+*.log
+build/
+node_modules/
+.idea/
+my_notes.txt
