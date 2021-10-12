@@ -11,7 +11,7 @@ public class NewGitClass {
             @Override
             public void run() {
                 while(true)
-                    System.out.println("i'm alive 404");
+                    System.out.println("i'm alive 404 AHAHA!");
             }
         });
         System.in.read();
